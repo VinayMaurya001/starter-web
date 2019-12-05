@@ -8,4 +8,3 @@
    This is deployment text
 ## How to contribute
    This is how to contribute text
-   This is how to contribute text2
