@@ -3,6 +3,9 @@
 ## Introduction
   This is introduction description
 ## Purpose
+  This is purpose text
 ## Deployment
+   This is deployment text
 ## How to contribute
-
+   This is how to contribute text
+   This is how to contribute text2
